@@ -2,7 +2,7 @@
 We examined how annual members and casual riders use Cyclistic bikes differently in order to identify opportunities to convert casual riders into long-term members. After cleaning and preparing the dataset in Google Sheets, key metrics such as ride length, ride frequency, and day-of-week usage were analyzed using pivot tables and visualizations. 
 
 ## Objective
-The primary objective of this analysis is to understand how **annual members** and **casual riders** use Cyclistic bikes differently, and to use these insights to recommend marketing strategies that encourage membership growth.
+To understand how **annual members** and **casual riders** use Cyclistic bikes differently, and to use these insights to recommend marketing strategies that encourage membership growth.
 
 ## Dataset Used
 - <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Cyclist%20Data%2C%20Marketing%20Analysis.xlsx">Project_Dataset<a/> 
@@ -49,9 +49,7 @@ The analysis revealed clear behavioral differences between the two user groups:
 - Are more active during **weekends**
 - Likely use the service mainly for **leisure and recreational purposes**
 
-### Insight Summary
-Although casual riders use the service less frequently, their **longer ride durations** suggest strong engagement and represent a valuable opportunity for conversion into annual members.
-
+**Note:** Although casual riders use the service less frequently, their **longer ride durations** suggest strong engagement and represent a valuable opportunity for conversion into annual members.
 
 ## Recommendations
 Based on these insights, the following marketing strategies are recommended:
@@ -64,7 +62,6 @@ Casual riders are most active on weekends, making this the ideal time to promote
 - Introduce **trial membership promotions**
 - Run **weekend-focused campaigns** at high-traffic locations
 
-
 ### 2. Position Annual Memberships for Commuters
 Annual members show strong weekday commuting behavior, which suggests membership should be marketed as a practical daily solution.
 
@@ -72,7 +69,6 @@ Annual members show strong weekday commuting behavior, which suggests membership
 - Highlight **cost savings** over single rides
 - Emphasize **convenience and flexibility**
 - Promote membership as ideal for **daily commuting**
-
 
 ### 3. Use Behavior-Based Marketing
 Cyclistic can identify casual riders who show strong usage patterns and target them with personalized conversion offers.
@@ -83,7 +79,6 @@ Cyclistic can identify casual riders who show strong usage patterns and target t
 - Send **personalized emails** or **in-app notifications**
 - Offer tailored promotions based on ride behavior
 
-
 ### 4. Leverage Digital Media Campaigns
 Digital channels can reinforce membership benefits and support conversion efforts.
 
@@ -93,12 +88,9 @@ Digital channels can reinforce membership benefits and support conversion effort
 - **Long-term savings**
 - Lifestyle messaging for both **commuters** and **weekend riders**
 
-
 ## Conclusion
 This analysis demonstrates that **annual members** and **casual riders** use Cyclistic bikes in distinctly different ways. Members primarily use the service for weekday commuting, while casual riders are more engaged in longer, weekend leisure rides.
-
 These insights provide a strong foundation for targeted marketing strategies aimed at converting casual riders into annual members. By focusing on timing, behavior, and personalized messaging, Cyclistic can improve membership growth and increase customer lifetime value.
-
 
 ## Tools Used
 - **Google Sheets**
@@ -106,7 +98,6 @@ These insights provide a strong foundation for targeted marketing strategies aim
   - Formulas
   - Pivot tables
   - Basic visualizations
-
 
 ## Skills Demonstrated
 - Data cleaning
