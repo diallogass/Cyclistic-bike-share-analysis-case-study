@@ -5,7 +5,7 @@ We examined how annual members and casual riders use Cyclistic bikes differently
 The primary objective of this analysis is to understand how **annual members** and **casual riders** use Cyclistic bikes differently, and to use these insights to recommend marketing strategies that encourage membership growth.
 
 ## Dataset Used
-- <a href=“https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Cyclist%20Data%2C%20Marketing%20Analysis.xlsx”>Dataset<a/>  
+- <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Cyclist%20Data%2C%20Marketing%20Analysis.xlsx">Project_Dataset<a/> 
 
 ## Data Cleaning and Preparation
 To ensure the dataset was accurate and ready for analysis, the following cleaning and preparation steps were completed:
