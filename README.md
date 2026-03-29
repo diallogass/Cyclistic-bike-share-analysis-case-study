@@ -33,7 +33,7 @@ After cleaning the data, descriptive analysis was performed using **formulas** a
 The following visuals were created to support the analysis:
 
 - <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Total%20Rides%20by%20User%20Type.PNG">Image_1<a/> – Comparison of ride frequency by rider type  
-- **Image 2** – Average ride length by rider type  
+- <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Average%20Ride%20Length.PNG">Image_2<a/> – Average ride length by rider type  
 - **Image 3** – Ride activity trends by day of the week  
 
 ## Key Findings
