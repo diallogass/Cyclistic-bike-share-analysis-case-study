@@ -34,8 +34,30 @@ The following visuals were created to support the analysis:
 - <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Ride%20by%20day%20of%20Week.PNG">Image_3<a/> – Ride activity trends by day of the week  
 
 ## Key Findings
-The analysis revealed clear behavioral differences between the two user groups:
 
+The findings revealed clear behavioral differences between the two user groups.
+
+- **Annual members** tend to take shorter but more frequent rides, primarily during weekdays, indicating that they use the service mainly for commuting purposes.
+- **Casual riders** take longer rides and are more active on weekends, suggesting that they use the bikes for leisure and recreational activities.
+- Although casual riders engage less frequently, their longer ride durations indicate strong interest and potential value.
+
+## Recommended Marketing Strategies
+
+Based on these insights, several marketing strategies are recommended:
+
+- **Target casual riders on weekends:**  
+  Cyclistic should target casual riders during weekends, when their activity is highest, by offering limited-time discounts or trial membership promotions.
+
+- **Promote annual memberships for commuters:**  
+  The company should position annual memberships as a cost-effective and convenient solution for daily commuting, highlighting savings and ease of use for regular riders.
+
+- **Use behavior-based marketing:**  
+  Cyclistic can implement behavior-based marketing by identifying frequent or high-duration casual riders and sending them personalized offers through email or in-app notifications.
+
+- **Leverage digital media campaigns:**  
+  Digital media campaigns should be leveraged to reinforce these messages, focusing on the benefits of unlimited access, flexibility, and long-term savings.
+
+  
 ### Annual Members
 - Take **shorter but more frequent rides**
 - Are more active during **weekdays**
