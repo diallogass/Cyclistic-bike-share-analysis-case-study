@@ -1,6 +1,3 @@
-# Cyclistic-bike-share-analysis-case-study
-We examined how annual members and casual riders use Cyclistic bikes differently in order to identify opportunities to convert casual riders into long-term members. After cleaning and preparing the dataset in Google Sheets, key metrics such as ride length, ride frequency, and day-of-week usage were analyzed using pivot tables and visualizations. 
-
 ## Objective
 To understand how **annual members** and **casual riders** use Cyclistic bikes differently, and to use these insights to recommend marketing strategies that encourage membership growth.
 
@@ -34,7 +31,7 @@ The following visuals were created to support the analysis:
 
 - <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Total%20Rides%20by%20User%20Type.PNG">Image_1<a/> – Comparison of ride frequency by rider type  
 - <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Average%20Ride%20Length.PNG">Image_2<a/> – Average ride length by rider type  
-- **Image 3** – Ride activity trends by day of the week  
+- <a href="https://github.com/diallogass/Cyclistic-bike-share-analysis-case-study/blob/main/Ride%20by%20day%20of%20Week.PNG">Image_3<a/> – Ride activity trends by day of the week  
 
 ## Key Findings
 The analysis revealed clear behavioral differences between the two user groups:
